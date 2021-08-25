@@ -1,6 +1,8 @@
 # RoboFriends
 A Little Project demonstrating mastery of basic React Concepts
 
+You can view the demo of the project the following link: arnoldrx.github.io/robofriends/
+
 In the project directory, you can run:
 
 ### `yarn start`
